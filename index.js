@@ -87,7 +87,7 @@ function favouriteFruit(theme) {
     let myBtn = document.querySelector("button")
 
 function alertPop() {
-  alert("Sorry, my voicemail is full.")
+  alert("ur gay.")
 }
 
 myBtn.onclick = alertPop
