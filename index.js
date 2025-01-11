@@ -84,6 +84,13 @@ function favouriteFruit(theme) {
         setProp('--light', "#f5f5f5")
         setProp('--dark', "#222222")
     } 
+    let myBtn = document.querySelector("button")
+
+function alertPop() {
+  alert("Sorry, my voicemail is full.")
+}
+
+myBtn.onclick = alertPop
 }
 
 
